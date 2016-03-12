@@ -7,8 +7,8 @@ _ =
   google_api_key: ""
   screenshotmachine_api_key: "b645b8"
   admins: {
-    110626080
-    123456789
+    107264463
+    217642693
     --your id
   }
   plugs: {
